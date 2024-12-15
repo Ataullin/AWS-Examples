@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#!/bin/bash
-
 # Check for bucket name
 if [ -z "$1" ]; then
     echo "Bucket name is required. Example: ./script.sh my-bucket us-east-1"
